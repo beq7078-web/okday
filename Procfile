@@ -1,1 +1,1 @@
-worker: python dmm.py
+worker: python spamte.py
